@@ -233,25 +233,6 @@ input,button,textarea,select  {
     display: block;
 }
 
-#myBtn {
-    display: none;
-    position: fixed;
-    bottom: 20px;
-    right: 25px;
-    z-index: 99;
-    font-size: 18px;
-    border: none;
-    outline: none;
-    background-color: var(--bg-primary);
-    color: var(--bg-white);
-    cursor: pointer;
-    padding: 8px 10px;
-    border-radius: 4px;
-} 
-#myBtn:hover {
-    opacity: 0.8;
-}
-
 .home .home-banner-1,
 .home .home-banner-2,
 .home .home-banner-3 {
